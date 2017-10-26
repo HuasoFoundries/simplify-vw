@@ -1,0 +1,28 @@
+{
+  "name": "simplify-vw",
+  "version": "0.0.1",
+  "description": "Simplifies GeoJson Geometries using Visvalingan Whyatt algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuasoFoundries/simplify-vw.git"
+  },
+  "keywords": [
+    "geojson",
+    "simplification",
+    "visvalingam",
+    "whyatt"
+  ],
+  "author": "amenadiel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuasoFoundries/simplify-vw/issues"
+  },
+  "homepage": "https://github.com/HuasoFoundries/simplify-vw#readme",
+  "dependencies": {
+    "@turf/area": "^4.7.3"
+  }
+}
