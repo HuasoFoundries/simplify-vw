@@ -1,0 +1,5040 @@
+ {
+   "type": "FeatureCollection",
+   "metadata":
+   {
+     "fields":
+     {
+       "categoria":
+       {
+         "value": "categoria",
+         "label": "categoria"
+       }
+     }
+   },
+   "features": [
+   {
+     "type": "Feature",
+     "id_feature": 5104,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476485131135",
+       "lon_google": "-70.534954004728"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534954004728, -33.476485131135]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8635,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47348420661",
+       "lon_google": "-70.539991800603"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539991800603, -33.47348420661]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474270205323",
+       "lon_google": "-70.539547345537"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539547345537, -33.474270205323]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 29,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471664121788",
+       "lon_google": "-70.544773420483"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544773420483, -33.471664121788]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 33,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481818408188",
+       "lon_google": "-70.539261302392"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539261302392, -33.481818408188]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 63,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471612294326",
+       "lon_google": "-70.538577860375"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538577860375, -33.471612294326]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 65,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478508097641",
+       "lon_google": "-70.53100103948"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53100103948, -33.478508097641]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 130,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470554734075",
+       "lon_google": "-70.544846558434"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544846558434, -33.470554734075]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 133,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470427929305",
+       "lon_google": "-70.547837754764"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547837754764, -33.470427929305]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 220,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475693070885",
+       "lon_google": "-70.544868611167"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544868611167, -33.475693070885]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 184,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471656315374",
+       "lon_google": "-70.538589795972"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538589795972, -33.471656315374]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 194,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.4721598007",
+       "lon_google": "-70.544914748676"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544914748676, -33.4721598007]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 215,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471698150911",
+       "lon_google": "-70.538601139015"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538601139015, -33.471698150911]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 216,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472761999613",
+       "lon_google": "-70.551809793367"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.551809793367, -33.472761999613]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 303,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471778787336",
+       "lon_google": "-70.532948787719"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532948787719, -33.471778787336]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 304,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471656315374",
+       "lon_google": "-70.538589795972"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538589795972, -33.471656315374]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 319,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472143657517",
+       "lon_google": "-70.549958158003"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549958158003, -33.472143657517]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 355,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472099751985",
+       "lon_google": "-70.539552604677"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539552604677, -33.472099751985]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 419,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479277084204",
+       "lon_google": "-70.545095452357"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545095452357, -33.479277084204]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 422,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473476778757",
+       "lon_google": "-70.539568744605"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539568744605, -33.473476778757]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 483,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479645464722",
+       "lon_google": "-70.533400383815"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533400383815, -33.479645464722]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 484,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469719787182",
+       "lon_google": "-70.545590005248"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545590005248, -33.469719787182]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 485,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47802755587",
+       "lon_google": "-70.544351710371"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544351710371, -33.47802755587]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 519,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469545638581",
+       "lon_google": "-70.533995751335"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533995751335, -33.469545638581]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 523,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469875545273",
+       "lon_google": "-70.546527601703"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546527601703, -33.469875545273]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 536,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471204515991",
+       "lon_google": "-70.549681775252"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549681775252, -33.471204515991]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 537,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477235190846",
+       "lon_google": "-70.537113159179"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537113159179, -33.477235190846]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 540,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474129046573",
+       "lon_google": "-70.54414432621"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54414432621, -33.474129046573]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 541,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469719787182",
+       "lon_google": "-70.545590005248"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545590005248, -33.469719787182]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 588,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.48067963479",
+       "lon_google": "-70.534457473988"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534457473988, -33.48067963479]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 608,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.476049440093",
+       "lon_google": "-70.542295252348"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542295252348, -33.476049440093]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 613,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472514393044",
+       "lon_google": "-70.537599306385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537599306385, -33.472514393044]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 703,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.477061785984",
+       "lon_google": "-70.533640557763"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533640557763, -33.477061785984]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 772,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480465515483",
+       "lon_google": "-70.531877640082"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531877640082, -33.480465515483]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 776,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473369663434",
+       "lon_google": "-70.539538353479"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539538353479, -33.473369663434]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 786,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47897818155",
+       "lon_google": "-70.534287916117"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534287916117, -33.47897818155]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 823,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473832721876",
+       "lon_google": "-70.547510045871"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547510045871, -33.473832721876]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 826,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476698480646",
+       "lon_google": "-70.533536934373"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533536934373, -33.476698480646]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1079,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474890435004",
+       "lon_google": "-70.543924201865"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543924201865, -33.474890435004]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1016,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1055,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473635527863",
+       "lon_google": "-70.54272060835"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54272060835, -33.473635527863]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1080,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480934265866",
+       "lon_google": "-70.532396365526"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532396365526, -33.480934265866]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1081,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469903018748",
+       "lon_google": "-70.537267511194"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537267511194, -33.469903018748]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1149,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472606029234",
+       "lon_google": "-70.548017387359"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548017387359, -33.472606029234]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1151,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472606029234",
+       "lon_google": "-70.548017387359"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548017387359, -33.472606029234]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1174,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47373032483",
+       "lon_google": "-70.542222083062"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542222083062, -33.47373032483]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1230,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473855798062",
+       "lon_google": "-70.541614667029"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541614667029, -33.473855798062]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1236,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472774674399",
+       "lon_google": "-70.548066011287"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548066011287, -33.472774674399]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1283,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474031400534",
+       "lon_google": "-70.540566413513"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540566413513, -33.474031400534]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1299,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474929008696",
+       "lon_google": "-70.54569391548"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54569391548, -33.474929008696]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1304,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480294711378",
+       "lon_google": "-70.53268563756"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53268563756, -33.480294711378]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1349,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.47445500956",
+       "lon_google": "-70.549625121653"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549625121653, -33.47445500956]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1445,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472082716286",
+       "lon_google": "-70.547866602319"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547866602319, -33.472082716286]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1498,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470999555677",
+       "lon_google": "-70.548625622285"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548625622285, -33.470999555677]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1572,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478811509936",
+       "lon_google": "-70.531568306621"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531568306621, -33.478811509936]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1653,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473827937348",
+       "lon_google": "-70.531869593233"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531869593233, -33.473827937348]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1635,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478329522252",
+       "lon_google": "-70.531909598116"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531909598116, -33.478329522252]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1751,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475064351612",
+       "lon_google": "-70.549072469486"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549072469486, -33.475064351612]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1754,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.470818045612",
+       "lon_google": "-70.53836251496"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53836251496, -33.470818045612]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1760,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1810,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47935256674",
+       "lon_google": "-70.549456431163"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549456431163, -33.47935256674]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1814,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473963381514",
+       "lon_google": "-70.538349276621"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538349276621, -33.473963381514]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1847,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.477178326121",
+       "lon_google": "-70.537521521589"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537521521589, -33.477178326121]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1856,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476575139724",
+       "lon_google": "-70.534328215206"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534328215206, -33.476575139724]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1858,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47995684237",
+       "lon_google": "-70.53178269397"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53178269397, -33.47995684237]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1895,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479743918733",
+       "lon_google": "-70.533418140369"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533418140369, -33.479743918733]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1955,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47397644834",
+       "lon_google": "-70.538364266441"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538364266441, -33.47397644834]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 1990,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474492930128",
+       "lon_google": "-70.549094856136"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549094856136, -33.474492930128]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2072,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475362489429",
+       "lon_google": "-70.537537493029"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537537493029, -33.475362489429]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2104,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476709941223",
+       "lon_google": "-70.538204572764"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538204572764, -33.476709941223]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2169,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474844297989",
+       "lon_google": "-70.535680808703"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535680808703, -33.474844297989]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2175,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471876108301",
+       "lon_google": "-70.538649389477"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538649389477, -33.471876108301]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2235,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481024598565",
+       "lon_google": "-70.53147114734"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53147114734, -33.481024598565]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2324,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472468143977",
+       "lon_google": "-70.552049877219"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.552049877219, -33.472468143977]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2334,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.47147674024",
+       "lon_google": "-70.54823235173"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54823235173, -33.47147674024]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2343,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479116405036",
+       "lon_google": "-70.549317656103"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549317656103, -33.479116405036]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2351,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47147674024",
+       "lon_google": "-70.54823235173"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54823235173, -33.47147674024]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2371,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.46933182514",
+       "lon_google": "-70.543524041168"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543524041168, -33.46933182514]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2429,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2450,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481153697449",
+       "lon_google": "-70.548394142957"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548394142957, -33.481153697449]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2462,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479060645148",
+       "lon_google": "-70.535134046951"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535134046951, -33.479060645148]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2576,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472189464711",
+       "lon_google": "-70.539621250004"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539621250004, -33.472189464711]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2599,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470818045612",
+       "lon_google": "-70.53836251496"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53836251496, -33.470818045612]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2604,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470878518919",
+       "lon_google": "-70.54555248971"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54555248971, -33.470878518919]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2709,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474102041496",
+       "lon_google": "-70.54232689092"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54232689092, -33.474102041496]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3317,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480163305716",
+       "lon_google": "-70.539527653965"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539527653965, -33.480163305716]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2782,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476049440093",
+       "lon_google": "-70.542295252348"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542295252348, -33.476049440093]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2787,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475565887633",
+       "lon_google": "-70.538608848889"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538608848889, -33.475565887633]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2846,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471833030704",
+       "lon_google": "-70.549858878137"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549858878137, -33.471833030704]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 2986,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481563922468",
+       "lon_google": "-70.534645862062"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534645862062, -33.481563922468]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3107,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470260839091",
+       "lon_google": "-70.542461251613"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542461251613, -33.470260839091]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3050,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477384479169",
+       "lon_google": "-70.534830918439"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534830918439, -33.477384479169]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3073,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474122054017",
+       "lon_google": "-70.538021049281"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538021049281, -33.474122054017]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3092,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.48036666378",
+       "lon_google": "-70.542579769249"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542579769249, -33.48036666378]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3203,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474691587134",
+       "lon_google": "-70.543011301337"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543011301337, -33.474691587134]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3247,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480565721841",
+       "lon_google": "-70.552777348743"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.552777348743, -33.480565721841]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3250,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476340280853",
+       "lon_google": "-70.539912963568"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539912963568, -33.476340280853]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3251,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480402326624",
+       "lon_google": "-70.533538856925"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533538856925, -33.480402326624]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3256,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477235190846",
+       "lon_google": "-70.537113159179"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537113159179, -33.477235190846]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3379,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47802755587",
+       "lon_google": "-70.544351710371"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544351710371, -33.47802755587]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3406,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47014423184",
+       "lon_google": "-70.5404824775"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5404824775, -33.47014423184]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3493,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476608218427",
+       "lon_google": "-70.533511189573"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533511189573, -33.476608218427]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3476,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471780648604",
+       "lon_google": "-70.536991295288"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536991295288, -33.471780648604]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3494,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47307399002",
+       "lon_google": "-70.540714579072"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540714579072, -33.47307399002]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3548,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469894991476",
+       "lon_google": "-70.541738174015"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541738174015, -33.469894991476]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3550,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469620472197",
+       "lon_google": "-70.544308895187"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544308895187, -33.469620472197]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3561,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474520417523",
+       "lon_google": "-70.544886568096"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544886568096, -33.474520417523]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3830,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472886841105",
+       "lon_google": "-70.546527886918"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546527886918, -33.472886841105]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3880,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472266011909",
+       "lon_google": "-70.538743403686"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538743403686, -33.472266011909]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3927,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476431160795",
+       "lon_google": "-70.538041413364"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538041413364, -33.476431160795]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3954,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473630976331",
+       "lon_google": "-70.541291233984"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541291233984, -33.473630976331]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3955,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473630976331",
+       "lon_google": "-70.541291233984"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541291233984, -33.473630976331]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 3961,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476792572344",
+       "lon_google": "-70.537781094043"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537781094043, -33.476792572344]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4049,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479457021427",
+       "lon_google": "-70.53436538636"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53436538636, -33.479457021427]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4112,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472780254308",
+       "lon_google": "-70.539790702817"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539790702817, -33.472780254308]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4132,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47348420661",
+       "lon_google": "-70.539991800603"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539991800603, -33.47348420661]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4295,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479004844489",
+       "lon_google": "-70.540054822113"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540054822113, -33.479004844489]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4161,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471184194128",
+       "lon_google": "-70.537579559684"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537579559684, -33.471184194128]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4214,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481041866295",
+       "lon_google": "-70.543602983279"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543602983279, -33.481041866295]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4221,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476484803698",
+       "lon_google": "-70.534301669432"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534301669432, -33.476484803698]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4224,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479972329724",
+       "lon_google": "-70.531272335111"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531272335111, -33.479972329724]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4257,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478303339269",
+       "lon_google": "-70.532044129434"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532044129434, -33.478303339269]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4272,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477291870886",
+       "lon_google": "-70.533550597427"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533550597427, -33.477291870886]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4558,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475209201988",
+       "lon_google": "-70.53192163285"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53192163285, -33.475209201988]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4576,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4629,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477540652866",
+       "lon_google": "-70.534582642833"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534582642833, -33.477540652866]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4655,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47307478634",
+       "lon_google": "-70.542018933026"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542018933026, -33.47307478634]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4691,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475466980148",
+       "lon_google": "-70.543232509196"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543232509196, -33.475466980148]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4731,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470556348022",
+       "lon_google": "-70.543869180435"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543869180435, -33.470556348022]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4756,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469582339073",
+       "lon_google": "-70.542288563828"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542288563828, -33.469582339073]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4762,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.476109649845",
+       "lon_google": "-70.543089926842"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543089926842, -33.476109649845]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4766,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47373032483",
+       "lon_google": "-70.542222083062"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542222083062, -33.47373032483]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4769,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473172398039",
+       "lon_google": "-70.543445415776"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543445415776, -33.473172398039]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4856,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477570590648",
+       "lon_google": "-70.532150889333"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532150889333, -33.477570590648]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4951,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470792546735",
+       "lon_google": "-70.548565165416"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548565165416, -33.470792546735]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 4952,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472734997673",
+       "lon_google": "-70.536203809739"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536203809739, -33.472734997673]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5049,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.476656982994",
+       "lon_google": "-70.543472331827"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543472331827, -33.476656982994]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5051,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47561477172",
+       "lon_google": "-70.537073950052"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537073950052, -33.47561477172]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5108,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480543064873",
+       "lon_google": "-70.533565675752"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533565675752, -33.480543064873]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5134,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.482005127632",
+       "lon_google": "-70.531701824844"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531701824844, -33.482005127632]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5142,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474767371459",
+       "lon_google": "-70.541185058009"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541185058009, -33.474767371459]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5216,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473353638418",
+       "lon_google": "-70.547374292282"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547374292282, -33.473353638418]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5228,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472693791678",
+       "lon_google": "-70.54244670847"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54244670847, -33.472693791678]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5306,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470866493141",
+       "lon_google": "-70.545959446554"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545959446554, -33.470866493141]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5336,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476042733679",
+       "lon_google": "-70.534171765436"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534171765436, -33.476042733679]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5356,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474357644099",
+       "lon_google": "-70.532864218254"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532864218254, -33.474357644099]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5369,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.472099751985",
+       "lon_google": "-70.539552604677"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539552604677, -33.472099751985]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5370,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.472099751985",
+       "lon_google": "-70.539552604677"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539552604677, -33.472099751985]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5371,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.472099751985",
+       "lon_google": "-70.539552604677"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539552604677, -33.472099751985]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5468,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470232242297",
+       "lon_google": "-70.544764552517"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544764552517, -33.470232242297]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5469,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470232242297",
+       "lon_google": "-70.544764552517"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544764552517, -33.470232242297]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5492,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479978731881",
+       "lon_google": "-70.532624390008"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532624390008, -33.479978731881]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5493,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479978731881",
+       "lon_google": "-70.532624390008"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532624390008, -33.479978731881]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5583,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474586173892",
+       "lon_google": "-70.550477378612"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.550477378612, -33.474586173892]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5633,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475016013487",
+       "lon_google": "-70.541399774155"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541399774155, -33.475016013487]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5660,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480981100466",
+       "lon_google": "-70.539917806683"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539917806683, -33.480981100466]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5724,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471413680108",
+       "lon_google": "-70.534507199324"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534507199324, -33.471413680108]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5725,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480562542174",
+       "lon_google": "-70.534014784941"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534014784941, -33.480562542174]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5732,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469413916019",
+       "lon_google": "-70.535101872876"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535101872876, -33.469413916019]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5743,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480454616728",
+       "lon_google": "-70.533548821222"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533548821222, -33.480454616728]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5860,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474942992179",
+       "lon_google": "-70.536219016022"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536219016022, -33.474942992179]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5870,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477291870886",
+       "lon_google": "-70.533550597427"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533550597427, -33.477291870886]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5871,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.470554734075",
+       "lon_google": "-70.544846558434"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544846558434, -33.470554734075]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5954,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471167432673",
+       "lon_google": "-70.547602881457"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547602881457, -33.471167432673]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5962,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473963365542",
+       "lon_google": "-70.540546191438"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540546191438, -33.473963365542]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 5970,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472014882911",
+       "lon_google": "-70.539995584411"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539995584411, -33.472014882911]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6020,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471167432673",
+       "lon_google": "-70.547602881457"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547602881457, -33.471167432673]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6049,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.48150923158",
+       "lon_google": "-70.531499718271"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531499718271, -33.48150923158]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6085,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471694558263",
+       "lon_google": "-70.541580109213"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541580109213, -33.471694558263]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6101,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.470410698932",
+       "lon_google": "-70.547927613939"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547927613939, -33.470410698932]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6174,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480258422905",
+       "lon_google": "-70.549889032454"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549889032454, -33.480258422905]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6198,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475397700373",
+       "lon_google": "-70.536343732101"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536343732101, -33.475397700373]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6199,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469545638581",
+       "lon_google": "-70.533995751335"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533995751335, -33.469545638581]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6247,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47131836725",
+       "lon_google": "-70.552727265652"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.552727265652, -33.47131836725]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6431,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475348297154",
+       "lon_google": "-70.539050244359"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539050244359, -33.475348297154]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6406,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481668095759",
+       "lon_google": "-70.535048132251"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535048132251, -33.481668095759]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6410,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471070224186",
+       "lon_google": "-70.54467128651"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54467128651, -33.471070224186]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6436,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469832633158",
+       "lon_google": "-70.532383794603"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532383794603, -33.469832633158]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6447,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479343118975",
+       "lon_google": "-70.5330650066"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5330650066, -33.479343118975]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6552,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469661445493",
+       "lon_google": "-70.545881915171"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545881915171, -33.469661445493]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6553,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473482048003",
+       "lon_google": "-70.549345740464"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549345740464, -33.473482048003]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6571,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.475173888037",
+       "lon_google": "-70.540620197362"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540620197362, -33.475173888037]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6585,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477585906589",
+       "lon_google": "-70.534595818287"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534595818287, -33.477585906589]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6636,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470923518373",
+       "lon_google": "-70.542661355291"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542661355291, -33.470923518373]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6680,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471800974453",
+       "lon_google": "-70.540285361128"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540285361128, -33.471800974453]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6683,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478726035766",
+       "lon_google": "-70.532801023364"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532801023364, -33.478726035766]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10885,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474037667086",
+       "lon_google": "-70.538006819778"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538006819778, -33.474037667086]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6707,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.474037667086",
+       "lon_google": "-70.538006819778"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538006819778, -33.474037667086]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6734,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471694558263",
+       "lon_google": "-70.541580109213"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541580109213, -33.471694558263]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6741,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470999555677",
+       "lon_google": "-70.548625622285"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548625622285, -33.470999555677]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6762,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477723919697",
+       "lon_google": "-70.531375724477"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531375724477, -33.477723919697]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6816,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478091324888",
+       "lon_google": "-70.533114245144"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533114245144, -33.478091324888]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6817,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471732384631",
+       "lon_google": "-70.542157338561"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542157338561, -33.471732384631]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6819,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478487090566",
+       "lon_google": "-70.533188739379"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533188739379, -33.478487090566]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6870,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473907386942",
+       "lon_google": "-70.544079345117"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544079345117, -33.473907386942]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6922,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470049782493",
+       "lon_google": "-70.542412509381"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542412509381, -33.470049782493]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6929,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469407150153",
+       "lon_google": "-70.552249356301"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.552249356301, -33.469407150153]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 6983,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470979367245",
+       "lon_google": "-70.537563664997"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537563664997, -33.470979367245]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7048,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477152887986",
+       "lon_google": "-70.537516569227"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537516569227, -33.477152887986]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7073,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471626471875",
+       "lon_google": "-70.54212448179"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54212448179, -33.471626471875]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7074,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474709421199",
+       "lon_google": "-70.547045772614"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547045772614, -33.474709421199]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7203,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47445500956",
+       "lon_google": "-70.549625121653"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549625121653, -33.47445500956]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7205,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7210,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472272354791",
+       "lon_google": "-70.5387087654"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5387087654, -33.472272354791]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7250,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474769933553",
+       "lon_google": "-70.532982638651"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532982638651, -33.474769933553]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7258,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.476109649845",
+       "lon_google": "-70.543089926842"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543089926842, -33.476109649845]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7348,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476508130595",
+       "lon_google": "-70.539964631024"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539964631024, -33.476508130595]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7360,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472161477393",
+       "lon_google": "-70.54044298938"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54044298938, -33.472161477393]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7398,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472606275047",
+       "lon_google": "-70.548555261795"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548555261795, -33.472606275047]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7453,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473276073821",
+       "lon_google": "-70.541176298096"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541176298096, -33.473276073821]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7494,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479350311444",
+       "lon_google": "-70.549437040204"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549437040204, -33.479350311444]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7611,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469805599",
+       "lon_google": "-70.544319886344"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544319886344, -33.469805599]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7653,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.470525252569",
+       "lon_google": "-70.538285383997"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538285383997, -33.470525252569]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7663,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475327457116",
+       "lon_google": "-70.531303119292"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531303119292, -33.475327457116]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7664,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473145405295",
+       "lon_google": "-70.545195770013"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545195770013, -33.473145405295]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7703,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474037667086",
+       "lon_google": "-70.538006819778"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538006819778, -33.474037667086]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7869,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469227109463",
+       "lon_google": "-70.533794702161"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533794702161, -33.469227109463]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7874,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7927,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.47457360432",
+       "lon_google": "-70.549018428763"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549018428763, -33.47457360432]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 7951,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472221716318",
+       "lon_google": "-70.538738326919"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538738326919, -33.472221716318]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8087,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471426798783",
+       "lon_google": "-70.542952402851"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542952402851, -33.471426798783]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8096,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477152887986",
+       "lon_google": "-70.537516569227"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537516569227, -33.477152887986]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8119,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476596774254",
+       "lon_google": "-70.540308143911"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540308143911, -33.476596774254]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8121,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470363232546",
+       "lon_google": "-70.548176768582"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548176768582, -33.470363232546]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8126,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470313030215",
+       "lon_google": "-70.537192346756"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537192346756, -33.470313030215]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8128,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8654,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477368632098",
+       "lon_google": "-70.534909147663"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534909147663, -33.477368632098]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8158,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469407150153",
+       "lon_google": "-70.552249356301"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.552249356301, -33.469407150153]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8169,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479030170346",
+       "lon_google": "-70.532858626991"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532858626991, -33.479030170346]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8177,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475913846085",
+       "lon_google": "-70.547850722053"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547850722053, -33.475913846085]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8179,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472667561921",
+       "lon_google": "-70.548035128495"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548035128495, -33.472667561921]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8187,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480934265866",
+       "lon_google": "-70.532396365526"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532396365526, -33.480934265866]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8285,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477063194373",
+       "lon_google": "-70.534885098152"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534885098152, -33.477063194373]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8289,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472035444118",
+       "lon_google": "-70.539889013661"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539889013661, -33.472035444118]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8290,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477935774807",
+       "lon_google": "-70.551131504095"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.551131504095, -33.477935774807]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8329,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474037667086",
+       "lon_google": "-70.538006819778"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538006819778, -33.474037667086]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8330,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47899917782",
+       "lon_google": "-70.540101718783"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540101718783, -33.47899917782]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8354,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472365104857",
+       "lon_google": "-70.539671627599"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539671627599, -33.472365104857]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8355,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474037667086",
+       "lon_google": "-70.538006819778"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538006819778, -33.474037667086]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8383,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472266011909",
+       "lon_google": "-70.538743403686"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538743403686, -33.472266011909]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8822,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47367237468",
+       "lon_google": "-70.537928786429"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537928786429, -33.47367237468]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8581,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477405169703",
+       "lon_google": "-70.531903201475"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531903201475, -33.477405169703]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8618,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472729461864",
+       "lon_google": "-70.536231098102"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536231098102, -33.472729461864]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8639,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.48140423828",
+       "lon_google": "-70.548946075594"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548946075594, -33.48140423828]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8693,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474731702698",
+       "lon_google": "-70.542025022646"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542025022646, -33.474731702698]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8825,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.476508130595",
+       "lon_google": "-70.539964631024"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539964631024, -33.476508130595]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8894,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471155584028",
+       "lon_google": "-70.544035690772"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544035690772, -33.471155584028]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8904,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469418811089",
+       "lon_google": "-70.541600488258"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541600488258, -33.469418811089]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8915,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475487863936",
+       "lon_google": "-70.543670825596"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543670825596, -33.475487863936]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8940,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469677116631",
+       "lon_google": "-70.547229412009"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547229412009, -33.469677116631]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8943,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481563922468",
+       "lon_google": "-70.534645862062"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534645862062, -33.481563922468]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8947,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479174063915",
+       "lon_google": "-70.541842978927"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541842978927, -33.479174063915]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8955,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476675276083",
+       "lon_google": "-70.539935049192"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539935049192, -33.476675276083]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 8979,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472272354791",
+       "lon_google": "-70.5387087654"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5387087654, -33.472272354791]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9009,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470424521121",
+       "lon_google": "-70.539096859919"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539096859919, -33.470424521121]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9006,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475871945282",
+       "lon_google": "-70.537147994762"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537147994762, -33.475871945282]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9013,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480074862883",
+       "lon_google": "-70.533055007052"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533055007052, -33.480074862883]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9084,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476109649845",
+       "lon_google": "-70.543089926842"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543089926842, -33.476109649845]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9181,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478821647418",
+       "lon_google": "-70.531570225165"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531570225165, -33.478821647418]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9192,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479143166451",
+       "lon_google": "-70.538428018653"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538428018653, -33.479143166451]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9356,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474688786953",
+       "lon_google": "-70.533780069126"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533780069126, -33.474688786953]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9288,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470057583359",
+       "lon_google": "-70.547338011553"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.547338011553, -33.470057583359]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9289,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473855798062",
+       "lon_google": "-70.541614667029"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541614667029, -33.473855798062]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9366,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481372122893",
+       "lon_google": "-70.532334354846"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532334354846, -33.481372122893]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9369,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473871645131",
+       "lon_google": "-70.550450626748"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.550450626748, -33.473871645131]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9402,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471954341687",
+       "lon_google": "-70.551373544676"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.551373544676, -33.471954341687]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9412,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472344924711",
+       "lon_google": "-70.548480536438"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548480536438, -33.472344924711]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9439,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.47100962764",
+       "lon_google": "-70.546702528046"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546702528046, -33.47100962764]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9442,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469728544996",
+       "lon_google": "-70.551430775946"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.551430775946, -33.469728544996]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9495,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47227942134",
+       "lon_google": "-70.54706765589"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54706765589, -33.47227942134]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9526,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477779562344",
+       "lon_google": "-70.534480307975"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534480307975, -33.477779562344]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9555,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.473855798062",
+       "lon_google": "-70.541614667029"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541614667029, -33.473855798062]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9558,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474111465651",
+       "lon_google": "-70.541849472165"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.541849472165, -33.474111465651]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9575,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475545095968",
+       "lon_google": "-70.544121117478"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544121117478, -33.475545095968]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9784,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474089745009",
+       "lon_google": "-70.549520236896"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549520236896, -33.474089745009]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9787,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.469413916019",
+       "lon_google": "-70.535101872876"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535101872876, -33.469413916019]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9859,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472197961687",
+       "lon_google": "-70.535640515706"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535640515706, -33.472197961687]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9883,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480946018748",
+       "lon_google": "-70.533670040225"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533670040225, -33.480946018748]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 9953,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480600078467",
+       "lon_google": "-70.549842253261"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549842253261, -33.480600078467]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10570,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474068963532",
+       "lon_google": "-70.546863783975"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546863783975, -33.474068963532]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10040,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470999555677",
+       "lon_google": "-70.548625622285"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548625622285, -33.470999555677]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10065,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10165,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477585906589",
+       "lon_google": "-70.534595818287"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534595818287, -33.477585906589]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10214,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472774674399",
+       "lon_google": "-70.548066011287"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548066011287, -33.472774674399]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10217,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477720799051",
+       "lon_google": "-70.531151568003"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531151568003, -33.477720799051]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10218,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477720799051",
+       "lon_google": "-70.531151568003"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531151568003, -33.477720799051]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10226,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.469582361012",
+       "lon_google": "-70.546275065648"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546275065648, -33.469582361012]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10239,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470554734075",
+       "lon_google": "-70.544846558434"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544846558434, -33.470554734075]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10406,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474704571516",
+       "lon_google": "-70.537331772414"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537331772414, -33.474704571516]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10421,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475914389178",
+       "lon_google": "-70.536931640009"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536931640009, -33.475914389178]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10454,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.48140423828",
+       "lon_google": "-70.548946075594"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548946075594, -33.48140423828]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10468,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10474,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473417348802",
+       "lon_google": "-70.54825130968"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54825130968, -33.473417348802]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10496,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478819936091",
+       "lon_google": "-70.550970400401"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.550970400401, -33.478819936091]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10505,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469395179478",
+       "lon_google": "-70.536855878625"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536855878625, -33.469395179478]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10568,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469628500891",
+       "lon_google": "-70.544271078907"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544271078907, -33.469628500891]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10550,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.473303276719",
+       "lon_google": "-70.533383308735"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533383308735, -33.473303276719]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10579,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471515307654",
+       "lon_google": "-70.542521218139"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542521218139, -33.471515307654]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10591,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474724607128",
+       "lon_google": "-70.537237044599"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.537237044599, -33.474724607128]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10602,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.470047655866",
+       "lon_google": "-70.536008301573"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.536008301573, -33.470047655866]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10614,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47100962764",
+       "lon_google": "-70.546702528046"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546702528046, -33.47100962764]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10679,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475158353776",
+       "lon_google": "-70.543135459631"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543135459631, -33.475158353776]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10716,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478881920838",
+       "lon_google": "-70.532012635484"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532012635484, -33.478881920838]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10750,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480285095044",
+       "lon_google": "-70.533094693705"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533094693705, -33.480285095044]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10794,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47356164254",
+       "lon_google": "-70.532081996373"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532081996373, -33.47356164254]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10862,
+     "properties":
+     {
+       "categoria": "Lesiones Graves",
+       "lat_google": "-33.480949342896",
+       "lon_google": "-70.5336883493"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5336883493, -33.480949342896]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10946,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469797262847",
+       "lon_google": "-70.543658539203"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.543658539203, -33.469797262847]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10952,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478253260742",
+       "lon_google": "-70.532301436639"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.532301436639, -33.478253260742]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 10969,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469863374096",
+       "lon_google": "-70.544839167052"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544839167052, -33.469863374096]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11034,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469194602048",
+       "lon_google": "-70.538755937562"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.538755937562, -33.469194602048]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11044,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.46978375632",
+       "lon_google": "-70.535920608501"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535920608501, -33.46978375632]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11076,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471546558468",
+       "lon_google": "-70.535871914399"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535871914399, -33.471546558468]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11090,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.480219311265",
+       "lon_google": "-70.533503981995"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.533503981995, -33.480219311265]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11100,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469719787182",
+       "lon_google": "-70.545590005248"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.545590005248, -33.469719787182]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11132,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.469907236433",
+       "lon_google": "-70.546371018937"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.546371018937, -33.469907236433]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11134,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11250,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471620574332",
+       "lon_google": "-70.5488070313"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5488070313, -33.471620574332]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11280,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.478113295151",
+       "lon_google": "-70.550628185828"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.550628185828, -33.478113295151]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11312,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475407853026",
+       "lon_google": "-70.539628344447"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539628344447, -33.475407853026]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11326,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.46978375632",
+       "lon_google": "-70.535920608501"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.535920608501, -33.46978375632]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11396,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47069392465",
+       "lon_google": "-70.548536362993"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.548536362993, -33.47069392465]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11457,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475410534161",
+       "lon_google": "-70.544080642334"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.544080642334, -33.475410534161]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11500,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472982155369",
+       "lon_google": "-70.534994189589"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534994189589, -33.472982155369]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11549,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476057245528",
+       "lon_google": "-70.54305331385"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.54305331385, -33.476057245528]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11622,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.474491371968",
+       "lon_google": "-70.549437629713"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.549437629713, -33.474491371968]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11630,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.479954542621",
+       "lon_google": "-70.531795175577"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.531795175577, -33.479954542621]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11638,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472484901333",
+       "lon_google": "-70.550569968216"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.550569968216, -33.472484901333]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11641,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.47373032483",
+       "lon_google": "-70.542222083062"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542222083062, -33.47373032483]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11768,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.476049440093",
+       "lon_google": "-70.542295252348"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542295252348, -33.476049440093]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11742,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.481570859161",
+       "lon_google": "-70.534648470578"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.534648470578, -33.481570859161]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11748,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.471800974453",
+       "lon_google": "-70.540285361128"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.540285361128, -33.471800974453]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11758,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475766462846",
+       "lon_google": "-70.542806183761"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.542806183761, -33.475766462846]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11761,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.472989799237",
+       "lon_google": "-70.53495677854"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.53495677854, -33.472989799237]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11811,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.477103936566",
+       "lon_google": "-70.5344836065"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.5344836065, -33.477103936566]
+     }
+   },
+   {
+     "type": "Feature",
+     "id_feature": 11846,
+     "properties":
+     {
+       "categoria": "Lesiones",
+       "lat_google": "-33.475348297154",
+       "lon_google": "-70.539050244359"
+     },
+     "geometry":
+     {
+       "type": "Point",
+       "coordinates": [-70.539050244359, -33.475348297154]
+     }
+   }]
+ }

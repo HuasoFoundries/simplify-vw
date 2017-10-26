@@ -1,0 +1,146 @@
+ {
+   "Colegios": [
+   {
+     "nombre": "Colegio Alcantara De Los Altos De Pe\u00a5Al",
+     "id": "25",
+     "direccion": "8797 Avenida Grecia",
+     "lat_google": "-33.476675276083",
+     "lon_google": "-70.539935049192"
+   }],
+   "Patentes": [
+   {
+     "id": "41",
+     "nombre": "400076",
+     "sector": "Restaurantes, Diurnos O Nocturnos",
+     "match_addr": "8704 Las Parcelas",
+     "rut": "SANMARTIN ROSALES FIDEL",
+     "lat_google": "-33.471822993219",
+     "lon_google": "-70.540955524822"
+   },
+   {
+     "id": "44",
+     "nombre": "400084",
+     "sector": "Supermercado De Alcoholes",
+     "match_addr": "9001 Las Parcelas",
+     "rut": "RENDIC HERMANOS S.A.",
+     "lat_google": "-33.472272354791",
+     "lon_google": "-70.5387087654"
+   },
+   {
+     "id": "118",
+     "nombre": "400192",
+     "sector": "Bar",
+     "match_addr": "8704 Las Parcelas",
+     "rut": "SANMARTIN ROSALES FIDEL",
+     "lat_google": "-33.471822993219",
+     "lon_google": "-70.540955524822"
+   },
+   {
+     "id": "175",
+     "nombre": "400275",
+     "sector": "Cabaret",
+     "match_addr": "8816 Las Parcelas",
+     "rut": "ROJAS CRUZ PATRICIA ESPERANZA",
+     "lat_google": "-33.472035444118",
+     "lon_google": "-70.539889013661"
+   },
+   {
+     "id": "196",
+     "nombre": "400316",
+     "sector": "Restaurantes, Diurnos O Nocturnos",
+     "match_addr": "8330 Grecia",
+     "rut": "CARRASCO GONZALEZ LUIS",
+     "lat_google": "-33.475209942277",
+     "lon_google": "-70.545751698342"
+   },
+   {
+     "id": "198",
+     "nombre": "400323",
+     "sector": "Restaurantes, Diurnos O Nocturnos",
+     "match_addr": "8311 Grecia",
+     "rut": "COM.Y GASTRON.FENG SHUI LTDA.",
+     "lat_google": "-33.475693070885",
+     "lon_google": "-70.544868611167"
+   },
+   {
+     "id": "211",
+     "nombre": "400345",
+     "sector": "Minimercado Alcohol",
+     "match_addr": "1431 Consistorial",
+     "rut": "ARELLANO VALDES EVA",
+     "lat_google": "-33.47165139741",
+     "lon_google": "-70.541567860318"
+   },
+   {
+     "id": "217",
+     "nombre": "400355",
+     "sector": "Supermercado De Alcoholes",
+     "match_addr": "8405 Las Parcelas",
+     "rut": "EKONO S.A.",
+     "lat_google": "-33.471249589819",
+     "lon_google": "-70.543791412726"
+   },
+   {
+     "id": "231",
+     "nombre": "400374",
+     "sector": "Supermercado De Alcoholes",
+     "match_addr": "8585 Grecia",
+     "rut": "SUPERMERCADO MONTSERRAT S.A.C.",
+     "lat_google": "-33.475973289144",
+     "lon_google": "-70.543485968182"
+   },
+   {
+     "id": "27",
+     "nombre": "400047",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "1531 Del Jardin",
+     "rut": "GALLARDO RODRIGUEZ CECILIA",
+     "lat_google": "-33.47367237468",
+     "lon_google": "-70.537928786429"
+   },
+   {
+     "id": "56",
+     "nombre": "400107",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "8729 Pasaje 19",
+     "rut": "PIZARRO CERECERA JOSE",
+     "lat_google": "-33.475062192678",
+     "lon_google": "-70.541174951475"
+   },
+   {
+     "id": "57",
+     "nombre": "400108",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "8682 Las Parcelas",
+     "rut": "BAEZ DONOSO ROSA AMELIA",
+     "lat_google": "-33.471708902527",
+     "lon_google": "-70.541510353324"
+   },
+   {
+     "id": "134",
+     "nombre": "400221",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "1780 Laguna San Pedro",
+     "rut": "SUCESION CACERES GUZMAN LAURA",
+     "lat_google": "-33.473996876519",
+     "lon_google": "-70.544737879671"
+   },
+   {
+     "id": "156",
+     "nombre": "400249",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "1626 Laguna San Pedro",
+     "rut": "ORTIZ FONSECA MARIO ALFONSO",
+     "lat_google": "-33.472434333099",
+     "lon_google": "-70.544279088132"
+   },
+   {
+     "id": "232",
+     "nombre": "400375",
+     "sector": "Depositos De Bebidas Alcoholicas",
+     "match_addr": "8852 Las Parcelas",
+     "rut": "GATICA MARTINEZ ESTHER ALEJANDRA",
+     "lat_google": "-33.4721707553",
+     "lon_google": "-70.539205234665"
+   }]
+ }

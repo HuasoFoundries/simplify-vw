@@ -23,6 +23,84 @@
   },
   "homepage": "https://github.com/HuasoFoundries/simplify-vw#readme",
   "dependencies": {
-    "@turf/area": "^4.7.3"
+    "@turf/area": "^4.7.3",
+    "@turf/helpers": "^5.0.1"
+  },
+  "devDependencies": {
+    "jspm": "^0.17.0-beta.47",
+    "serve": "^6.3.1"
+  },
+  "jspm": {
+    "registry": "jspm",
+    "name": "simplify-vw",
+    "main": "index.js",
+    "format": "amd",
+    "directories": {
+      "lib": "dist"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "@turf/along": "npm:@turf/along@^4.6.0",
+      "@turf/area": "npm:@turf/area@^4.7.3",
+      "@turf/buffer": "npm:@turf/buffer@^4.6.1",
+      "@turf/concave": "npm:@turf/concave@^4.6.0",
+      "@turf/helpers": "npm:@turf/helpers@^4.6.0",
+      "@turf/inside": "npm:@turf/inside@^4.6.0",
+      "@turf/kinks": "npm:@turf/kinks@^4.6.0",
+      "@turf/line-intersect": "npm:@turf/line-intersect@^4.6.0",
+      "@turf/line-slice": "npm:@turf/line-slice@^4.6.0",
+      "@turf/simplify": "npm:@turf/simplify@^4.6.0",
+      "@turf/truncate": "npm:@turf/truncate@^4.6.0",
+      "@turf/union": "npm:@turf/union@^4.6.0",
+      "@turf/unkink-polygon": "npm:@turf/unkink-polygon@^4.6.0",
+      "assert": "npm:jspm-nodelibs-assert@^0.2.0",
+      "buffer": "npm:jspm-nodelibs-buffer@^0.2.0",
+      "child_process": "npm:jspm-nodelibs-child_process@^0.2.0",
+      "constants": "npm:jspm-nodelibs-constants@^0.2.0",
+      "crypto": "npm:jspm-nodelibs-crypto@^0.2.0",
+      "events": "npm:jspm-nodelibs-events@^0.2.0",
+      "lodash-es": "npm:lodash-es@^4.14.2",
+      "os": "npm:jspm-nodelibs-os@^0.2.0",
+      "path": "npm:jspm-nodelibs-path@^0.2.0",
+      "process": "npm:jspm-nodelibs-process@^0.2.0",
+      "stream": "npm:jspm-nodelibs-stream@^0.2.0",
+      "string_decoder": "npm:jspm-nodelibs-string_decoder@^0.2.0",
+      "util": "npm:jspm-nodelibs-util@^0.2.0",
+      "vm": "npm:jspm-nodelibs-vm@^0.2.0"
+    },
+    "peerDependencies": {
+      "fs": "npm:jspm-nodelibs-fs@^0.2.0",
+      "plugin-babel": "npm:systemjs-plugin-babel@^0.0.25"
+    },
+    "overrides": {
+      "npm:debug@2.6.8": {
+        "main": "src/browser.js",
+        "jspmNodeConversion": false,
+        "format": "cjs",
+        "map": {
+          "./src/browser.js": {
+            "node": "./src/node.js"
+          },
+          "./node.js": {
+            "browser": "./src/browser.js"
+          },
+          "fs": "@node/fs",
+          "net": "@node/net",
+          "tty": "@node/tty",
+          "util": "@node/util"
+        }
+      },
+      "npm:inherits@2.0.3": {
+        "ignore": [
+          "test.js"
+        ]
+      },
+      "npm:pbkdf2@3.0.13": {
+        "main": "browser.js"
+      },
+      "npm:safe-buffer@5.1.1": {
+        "browser": "index.js"
+      }
+    }
   }
 }

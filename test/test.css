@@ -1,0 +1,11 @@
+ #map {
+ 	width: 80%;
+ 	height: 100%;
+ 	float: right;
+ 	min-height: 600px;
+ }
+ 
+ .disabled {
+ 	pointer-events: none;
+ 	color: #AAA;
+ }
