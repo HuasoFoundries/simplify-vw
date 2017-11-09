@@ -12,7 +12,6 @@ SystemJS.config({
             "lodash-es": "npm:lodash-es@4.17.4",
             "@turf/kinks": "npm:@turf/kinks@4.7.2",
             "@turf/buffer": "npm:@turf/buffer@4.7.1",
-            "@turf/simplify": "npm:@turf/simplify@4.7.1",
             "@turf/along": "npm:@turf/along@4.7.1",
             "@turf/inside": "npm:@turf/inside@4.7.1",
             "@turf/union": "npm:@turf/union@4.7.1",
@@ -95,15 +94,6 @@ SystemJS.config({
                     "@turf/meta": "npm:@turf/meta@4.7.1"
                 }
             },
-            "npm:@turf/simplify@4.7.1": {
-                "map": {
-                    "@turf/helpers": "npm:@turf/helpers@4.7.1",
-                    "simplify-js": "npm:simplify-js@1.2.1",
-                    "@turf/clean-coords": "npm:@turf/clean-coords@4.7.1",
-                    "@turf/clone": "npm:@turf/clone@4.7.1",
-                    "@turf/meta": "npm:@turf/meta@4.7.1"
-                }
-            },
             "npm:@turf/line-slice@4.7.1": {
                 "map": {
                     "@turf/helpers": "npm:@turf/helpers@4.7.1",
@@ -166,12 +156,6 @@ SystemJS.config({
                     "@turf/within": "npm:@turf/within@3.14.0",
                     "debug": "npm:debug@2.6.8",
                     "@turf/area": "npm:@turf/area@3.14.0"
-                }
-            },
-            "npm:@turf/clean-coords@4.7.1": {
-                "map": {
-                    "@turf/helpers": "npm:@turf/helpers@4.7.1",
-                    "@turf/invariant": "npm:@turf/invariant@4.7.1"
                 }
             },
             "npm:@turf/inside@4.7.1": {
@@ -550,8 +534,38 @@ SystemJS.config({
         "github:*/*.json"
     ],
     map: {
+        "@turf/clone": "npm:@turf/clone@5.0.4",
+        "@turf/meta": "npm:@turf/meta@5.0.4",
+        "@turf/simplify": "npm:@turf/simplify@5.0.4",
         "fs": "npm:jspm-nodelibs-fs@0.2.1",
+        "lodash": "npm:lodash@3.10.1",
         "plugin-babel": "npm:systemjs-plugin-babel@0.0.25"
     },
-    packages: {}
+    packages: {
+        "npm:@turf/meta@5.0.4": {
+            "map": {
+                "@turf/helpers": "npm:@turf/helpers@5.0.4"
+            }
+        },
+        "npm:@turf/simplify@5.0.4": {
+            "map": {
+                "@turf/meta": "npm:@turf/meta@5.0.4",
+                "@turf/clean-coords": "npm:@turf/clean-coords@5.0.4",
+                "@turf/helpers": "npm:@turf/helpers@5.0.4",
+                "@turf/clone": "npm:@turf/clone@5.0.4",
+                "simplify-js": "npm:simplify-js@1.2.1"
+            }
+        },
+        "npm:@turf/clean-coords@5.0.4": {
+            "map": {
+                "@turf/helpers": "npm:@turf/helpers@5.0.4",
+                "@turf/invariant": "npm:@turf/invariant@5.0.4"
+            }
+        },
+        "npm:@turf/invariant@5.0.4": {
+            "map": {
+                "@turf/helpers": "npm:@turf/helpers@5.0.4"
+            }
+        }
+    }
 });

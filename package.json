@@ -38,7 +38,12 @@
     "directories": {
       "lib": "dist"
     },
-    "dependencies": {},
+    "dependencies": {
+      "@turf/clone": "npm:@turf/clone@^5.0.4",
+      "@turf/meta": "npm:@turf/meta@^5.0.4",
+      "@turf/simplify": "npm:@turf/simplify@^5.0.4",
+      "lodash": "npm:lodash@3"
+    },
     "devDependencies": {
       "@turf/along": "npm:@turf/along@^4.6.0",
       "@turf/area": "npm:@turf/area@^4.7.3",
@@ -49,7 +54,6 @@
       "@turf/kinks": "npm:@turf/kinks@^4.6.0",
       "@turf/line-intersect": "npm:@turf/line-intersect@^4.6.0",
       "@turf/line-slice": "npm:@turf/line-slice@^4.6.0",
-      "@turf/simplify": "npm:@turf/simplify@^4.6.0",
       "@turf/truncate": "npm:@turf/truncate@^4.6.0",
       "@turf/union": "npm:@turf/union@^4.6.0",
       "@turf/unkink-polygon": "npm:@turf/unkink-polygon@^4.6.0",

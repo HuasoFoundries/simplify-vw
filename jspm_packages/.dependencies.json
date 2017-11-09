@@ -63,16 +63,6 @@
     },
     "peerDeps": {}
   },
-  "npm:@turf/simplify@4.7.1": {
-    "deps": {
-      "@turf/clean-coords": "npm:@turf/clean-coords@4.7.1",
-      "@turf/clone": "npm:@turf/clone@4.7.1",
-      "@turf/helpers": "npm:@turf/helpers@4.7.1",
-      "@turf/meta": "npm:@turf/meta@4.7.1",
-      "simplify-js": "npm:simplify-js@^1.2.1"
-    },
-    "peerDeps": {}
-  },
   "npm:@turf/along@4.7.1": {
     "deps": {
       "@turf/bearing": "npm:@turf/bearing@4.7.1",
@@ -181,10 +171,6 @@
       "os": "npm:jspm-nodelibs-os@^0.2.0"
     }
   },
-  "npm:simplify-js@1.2.1": {
-    "deps": {},
-    "peerDeps": {}
-  },
   "npm:@turf/tin@4.7.1": {
     "deps": {
       "@turf/helpers": "npm:@turf/helpers@4.7.1"
@@ -255,10 +241,6 @@
       "util": "npm:jspm-nodelibs-util@^0.2.0"
     }
   },
-  "npm:@turf/clone@4.7.1": {
-    "deps": {},
-    "peerDeps": {}
-  },
   "npm:geojson-dissolve@3.1.0": {
     "deps": {
       "@turf/meta": "npm:@turf/meta@^3.7.5",
@@ -292,13 +274,6 @@
   },
   "npm:@turf/meta@3.14.0": {
     "deps": {},
-    "peerDeps": {}
-  },
-  "npm:@turf/clean-coords@4.7.1": {
-    "deps": {
-      "@turf/helpers": "npm:@turf/helpers@4.7.1",
-      "@turf/invariant": "npm:@turf/invariant@4.7.1"
-    },
     "peerDeps": {}
   },
   "npm:simplepolygon@1.2.1": {
@@ -891,6 +866,51 @@
   },
   "npm:@turf/meta@4.7.4": {
     "deps": {},
+    "peerDeps": {}
+  },
+  "npm:lodash@3.10.1": {
+    "deps": {},
+    "peerDeps": {}
+  },
+  "npm:@turf/simplify@5.0.4": {
+    "deps": {
+      "@turf/clean-coords": "npm:@turf/clean-coords@^5.0.4",
+      "@turf/clone": "npm:@turf/clone@^5.0.4",
+      "@turf/helpers": "npm:@turf/helpers@^5.0.4",
+      "@turf/meta": "npm:@turf/meta@^5.0.4",
+      "simplify-js": "npm:simplify-js@^1.2.1"
+    },
+    "peerDeps": {}
+  },
+  "npm:@turf/meta@5.0.4": {
+    "deps": {
+      "@turf/helpers": "npm:@turf/helpers@^5.0.4"
+    },
+    "peerDeps": {}
+  },
+  "npm:@turf/clean-coords@5.0.4": {
+    "deps": {
+      "@turf/helpers": "npm:@turf/helpers@^5.0.4",
+      "@turf/invariant": "npm:@turf/invariant@^5.0.4"
+    },
+    "peerDeps": {}
+  },
+  "npm:@turf/clone@5.0.4": {
+    "deps": {},
+    "peerDeps": {}
+  },
+  "npm:@turf/helpers@5.0.4": {
+    "deps": {},
+    "peerDeps": {}
+  },
+  "npm:simplify-js@1.2.1": {
+    "deps": {},
+    "peerDeps": {}
+  },
+  "npm:@turf/invariant@5.0.4": {
+    "deps": {
+      "@turf/helpers": "npm:@turf/helpers@^5.0.4"
+    },
     "peerDeps": {}
   }
 }
