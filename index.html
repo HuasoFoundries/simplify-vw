@@ -8,133 +8,42 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>InstaGIS Reports Platform: Test Landing</title>
-    <link href="/test/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="/test/css/fontello.css" rel="stylesheet" />
-    <link href="/test/css/animate.css" rel="stylesheet" />
-    <link href="/test/test.css" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.5.1/bluebird.js"></script>
 
-    <script src="test/vendor/bluebird.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+    <script src="https://unpkg.com/@turf/turf@5.0.4/turf.min.js"></script>
 
     <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
 
-    <script src="/jspm_packages/system.js"></script>
-    <script>
-    Promise.config({
-      // Enable warnings
-      warnings: false,
-      // Enable long stack traces
-      longStackTraces: false,
-      // Enable cancellation
-      cancellation: false,
-      // Enable monitoring
-      monitoring: false
-    });
+    <script src="test/feature_polygon.js"></script>
 
-    window.define = System.amdDefine;
-    window.require = System.amdRequire;
-    window.globalvars = {
-      timeStart: Date.now(),
-      transparent_background: true,
-      userData: {
-        Authorization: 'Em8Za6giglEaoEAFks5FTKEu2IhaKEPYWydlC7gkWgfoKD6bciS9YHFjRmHJJAFt',
-        get: function (parameter) {
-          if (parameter === 'organization') {
-            return 'InstaGIS';
-          }
-        }
-      }
-    };
-    console.zdebug = console.info.bind(console, '%cDEBUG:', "color:#A39;font-weight:bold;");
-    Object.defineProperty(console, "timerInfo", {
-      get: function () {
-        return Function.prototype.bind.call(
-          console.log,
-          console,
-          '%c' + parseInt((Date.now() - globalvars.timeStart) / 100, 10) / 10 + ' Timer:',
-          "color:#03C;font-weight:bold;"
-        );
-      }
-    });
-
-    </script>
-    <script src="/jspm.config.js"></script>
-    <script type="text/javascript">
-    System.import('index.js');
-
-    </script>
+    <script src="index.js"></script>
   </head>
 
   <body>
-    <div class="modals" id="modalscontainer" style="z-index: 100;"></div>
     <div class="container-fluid" id="supercontenedor">
-      <div class="row-fluid">
-        <div class="span2 bs-docs-sidebar">
-          <h4>Seleccione un tipo de reporte</h4>
-          <ul class="nav nav-list bs-docs-sidenav affix">
-            <li class="">
-              <a href="javascript:void(0)" id="origendestino"><i class="icon-chevron-right"></i> Origen Destino</a>
-            </li>
-            <li class="dropdown">
-              <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                                <i class="icon-chevron-right"></i> Áreas Verdes <span class="caret"></span>
-                            </a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="531">ESTACIONAMIENTOS LO RECABARREN</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="1-15">Las Ursulinas</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="354">CALETERA SANTA MARIA LA BODEGA</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="3-06">BANDEJON SHELL</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="717">Anton Díaz</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="880">AV BICENTENARIO VEREDA</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="4-01">Parque Bicentenario 1a Etapa</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="581">PLAZA ISABEL MONTT</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="4-02">Parque Bicentenario 2da Etapa</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="2-63">Altamira / Las Tranqueras</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="57">Plaza Filomena Comas</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="2-32B">Parque Monsenor Escriba De Balaguer</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="3-97">Terrazas Del Condor 2</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="2-30">Sport Frances Oriente</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="3-12">Árboles en Cero</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="3|1-29|1-66">Múltiple Mixed</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="2-15|3-97|3-41|1-72|3-72|2-29|1-28C|2-26|1-31|2-07|2-19|3-51|3-58|1-21|1-21|1-21|3-50|1-28F|2-32A|1-75">Múltiple Códigos</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="11|134|136|171|201|3|332|353|422|431|477|50|51|725|852|966">Múltiple ID Textos Largos</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="">Error</a></li>
-                <li><a class="areas_verdes" href="javascript:void(0)" data-id="-2">No Data</a></li>
-              </ul>
-            </li>
-            <li class="">
-              <a href="javascript:void(0)" id="investment"> <i class="icon-chevron-right"></i> Inversiones</a>
-            </li>
-            <li class="">
-              <a href="javascript:void(0)" id="media"> <i class="icon-chevron-right"></i> Reporte Medios</a>
-            </li>
-            <li class="">
-              <a href="javascript:void(0)" class="disabled" id="infographic"> <i class="icon-chevron-right"></i> Infografía</a>
-            </li>
-            <li class="">
-              <a href="javascript:void(0)" class="disabled" id="isochrone"> <i class="icon-chevron-right"></i> Isocrona</a>
-            </li>
-            <li class="">
-              <a href="javascript:void(0)" id="alcohol"><i class="icon-chevron-right"></i> Alcohol</a>
-            </li>
-          </ul>
-          <div id="dialogomodal" class="modal hide fade" data-backdrop="true" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-            <span>
-                    <div class="modal-header"> 
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                        <h3 id="myModalLabel">Demographic Analysis</h3> 
-                    </div>
-
-                <div class="modal-body">
-                </div>
-
-                <div class="modal-footer">
-                </div>
-                </span>
-          </div>
+      <div class="row-fluid" style="margin-top:1vh;height:6vh;">
+        <div class="col-md-4">
+          <div style="float:left;font-weight: bold;margin-right:10px; ">Example Visvalingam Whyatt Simplification</div>
+          <div id="original_points" style="float:left"></div>
         </div>
-        <div class="span10" id="map">
+        <div class="col-md-4">
+          <div id="simplify-vw" class="btn btn-success" style="float:left;margin-right:10px;">Toggle Visvalingam Whyatt Simplified Outline</div>
+          <div id="svw_points" style="float:left"></div>
         </div>
+        <div class="col-md-4">
+          <div id="simplify-dp" class="btn btn-danger" style="float:left;margin-right:10px;">Toggle Douglas Peucker Simplified Outline</div>
+          <div id="sdp_points" style="float:left"></div>
+        </div>
+
+      </div>
+      <div class="row-fluid" style="margin-top:1vh;">
+        <div class="col-md-12" id="map" style="height:91vh;">
+        </div>
+      </div>
   </body>
 
 </html>
