@@ -133,7 +133,7 @@ jQuery(document).ready(function () {
 	});
 
 
-	var geoJsonLayer1 = L.geoJSON([], {
+	var LayerOriginal = L.geoJSON([], {
 		style: {
 			fillColor: '#aaa',
 			"color": "#0000ff",
@@ -142,7 +142,7 @@ jQuery(document).ready(function () {
 			fillOpacity: 0.2
 		}
 	});
-	var geoJsonLayer2 = L.geoJSON([], {
+	var LayerDP = L.geoJSON([], {
 		style: {
 			fillColor: '#aaa',
 			"color": "#ff0000",
@@ -152,7 +152,7 @@ jQuery(document).ready(function () {
 		}
 	});
 
-	var geoJsonLayer3 = L.geoJSON([], {
+	var LayerVW = L.geoJSON([], {
 		style: {
 			fillColor: '#aaa',
 			"color": "#00ff00",
@@ -161,15 +161,10 @@ jQuery(document).ready(function () {
 			fillOpacity: 0
 		}
 	});
-	geoJsonLayer1.addTo(mymap);
+	LayerOriginal.addTo(mymap);
 
 
-	var geoJsonLayer = L.geoJSON().addTo(mymap);
-
-	geoJsonLayer.addData(featurePolygon);
-
-
-	geoJsonLayer1.addData(featurePolygon);
+	LayerOriginal.addData(featurePolygon);
 	jQuery('#original_points').text('(' + featurePolygon.geometry.coordinates[0].length + 'vertices)');
 
 
@@ -180,15 +175,15 @@ jQuery(document).ready(function () {
 		tolerance: 0.0003,
 		highQuality: false
 	});
-	geoJsonLayer3.addData(simplified_vw);
-	geoJsonLayer2.addData(simplified_dp);
+	LayerVW.addData(simplified_vw);
+	LayerDP.addData(simplified_dp);
 
 	jQuery('#simplify-dp').on('click', function () {
 		if (layer_dp_added) {
-			mymap.removeLayer(geoJsonLayer2);
+			mymap.removeLayer(LayerDP);
 			layer_dp_added = false;
 		} else {
-			mymap.addLayer(geoJsonLayer2);
+			mymap.addLayer(LayerDP);
 			layer_dp_added = true;
 		}
 		jQuery('#sdp_points').text('(' + simplified_dp.geometry.coordinates[0].length + 'vertices)')
@@ -196,10 +191,10 @@ jQuery(document).ready(function () {
 
 	jQuery('#simplify-vw').on('click', function () {
 		if (layer_vw_added) {
-			mymap.removeLayer(geoJsonLayer3);
+			mymap.removeLayer(LayerVW);
 			layer_vw_added = false;
 		} else {
-			mymap.addLayer(geoJsonLayer3);
+			mymap.addLayer(LayerVW);
 			layer_vw_added = true;
 		}
 
