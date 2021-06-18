@@ -24,7 +24,7 @@
   "homepage": "https://github.com/HuasoFoundries/simplify-vw#readme",
   "dependencies": {
     "@turf/area": "^4.7.3",
-    "@turf/helpers": "^5.0.1"
+    "@turf/helpers": "^6.4.0"
   },
   "devDependencies": {
     "jspm": "^0.17.0-beta.47",
