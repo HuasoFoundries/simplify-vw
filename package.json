@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/HuasoFoundries/simplify-vw#readme",
   "dependencies": {
-    "@turf/area": "^4.7.3",
+    "@turf/area": "^6.5.0",
     "@turf/helpers": "^5.0.1"
   },
   "devDependencies": {
